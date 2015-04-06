@@ -1,0 +1,39 @@
+2400 1000
+color green 0 140 0
+color brown 120 90 20
+terrain brown 0 150 550 0 0 550 550
+terrain brown 150 170 110 0 300 550 410
+terrain brown 0 150 240 780 780 1000 1000
+terrain brown 150 220 220 780 710 1000 1000
+terrain green 370 160 290 710 710 1000 1000
+terrain green 530 280 240 710 760 1000 1000
+terrain green 810 500 100 760 900 1000 1000
+terrain green 1310 140 100 900 900 1000 1000
+terrain green 1450 200 100 900 820 1000 1000
+terrain green 1650 330 180 820 820 1000 1000
+terrain green 1980 60 120 820 880 1000 1000
+terrain green 2040 230 120 880 880 1000 1000
+terrain green 2270 80 120 880 800 1000 1000
+terrain green 2350 30 200 800 300 1000 1000
+terrain green 2380 20 700 300 100 1000 1000
+start 2270 865
+decoration rocket 2030 780 3 2.0
+decoration controls 2150 700 1 1.0
+#tree=80x140
+decoration tree 1710 680 1 1.0
+decoration tree 1830 680 1 1.0
+decoration tree 1340 760 1 1.0
+decoration tree 1120 725 1 1.0
+decoration tree 970 690 1 1.0
+decoration tree 750 620 1 1.0
+decoration tree 550 580 1 1.0
+decoration tree 390 570 1 1.0
+actor stand 1750 810 200 60
+actor stand 1410 890 200 100
+actor stand 780 720 200 100
+actor stand 190 720 200 100
+actor fly 320 550 150 60
+goal level2 0 550 10 230
+color dark_blue 0 0 40
+background dark_blue
+

@@ -1,0 +1,17 @@
+[ ] Actor
+ [X] Targeting
+[ ] Level
+[X] Camera
+[ ] Goal class
+[ ] Player
+ [ ] Jumping delay
+ [ ] Make offscreen target show up on the edge
+[X] Bullet
+ [X] Arbitrary shape
+[ ] Terrain
+ [X] Sloped terrain
+ [X] Slope pushes on actor using the normal force
+ [X] Slope for the bottom
+ [X] Terrain intersects arbitrary shape
+[X] Particle class
+[ ] Line on line intersection

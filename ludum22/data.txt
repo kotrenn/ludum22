@@ -1,0 +1,22 @@
+vec	size		5000 480
+vec viewport	640 480
+int view_dist   450
+str real_start       "level1"
+str start       "level3"
+str background	"background_tile.png"
+int gravity		160
+int jump_speed	160
+dbl jump_time	1.6
+int player_rad	10
+int player_speed	300
+int player_health	100
+int player_rate	30
+dbl heal_delay_old 2.5
+dbl good_delay 0.6
+dbl heal_delay 0.01
+dbl invincible 1.5
+dbl pbullet_len	30.0
+dbl pbullet_speed	320.0
+dbl pbullet_delay	0.2
+int num_particles	20
+dbl anim_delay      4.0
